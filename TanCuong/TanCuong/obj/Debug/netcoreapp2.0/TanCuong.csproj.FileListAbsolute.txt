@@ -1,0 +1,9 @@
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\bin\Debug\netcoreapp2.0\TanCuong.dll
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\bin\Debug\netcoreapp2.0\TanCuong.deps.json
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\bin\Debug\netcoreapp2.0\TanCuong.runtimeconfig.json
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\bin\Debug\netcoreapp2.0\TanCuong.runtimeconfig.dev.json
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\obj\Debug\netcoreapp2.0\TanCuong.csproj.CoreCompileInputs.cache
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\obj\Debug\netcoreapp2.0\TanCuong.AssemblyInfoInputs.cache
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\obj\Debug\netcoreapp2.0\TanCuong.AssemblyInfo.cs
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\obj\Debug\netcoreapp2.0\TanCuong.dll
+E:\Wilson\ProjectForMyself\MocMyNghe\TanCuong\TanCuong\obj\Debug\netcoreapp2.0\TanCuong.pdb
